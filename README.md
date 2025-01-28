@@ -25,15 +25,14 @@
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/9b5d2fde-74a6-49ad-93cc-4af6039366b8))
+![image](https://github.com/user-attachments/assets/fb67396c-30fd-4baa-bd44-6af954aead36)
+
 
 ### Sentiment Analysis
-![Sentiment Analysis Screenshot](![image](https://github.com/user-attachments/assets/66d656fb-9e83-48d7-8e3d-295e2d7f70e3)
-)
+![image](https://github.com/user-attachments/assets/bc9756ac-e361-4605-ae03-709b913f058a)
 
-> Add your screenshots to the repository and replace `path-to-your-dashboard-image` and `path-to-your-sentiment-analysis-image` with the correct paths.
 
----
+
 
 ## Getting Started
 
