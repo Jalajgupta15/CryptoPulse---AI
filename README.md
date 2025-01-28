@@ -66,20 +66,6 @@ Visit [Crypto Pulse AI](https://cryptopulseai.netlify.app/) for the hosted versi
 - **`app.py`**: Hosts the Streamlit app for local execution.
 - **`index.html`**: Acts as the entry point for the Netlify-hosted web application.
 
-## Folder Structure
-
-```
-.
-├── dist/                     # Build files
-├── src/                      # Source code
-├── app.py                    # Streamlit app
-├── config.json               # Configuration file
-├── index.html                # Web app entry point
-├── package.json              # Node.js dependencies
-├── LICENSE                   # License information
-└── README.md                 # Project documentation
-```
-
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
